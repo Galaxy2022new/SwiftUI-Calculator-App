@@ -1,5 +1,33 @@
-# SwiftUI Calculator
+# Calculator App
 
-Basic calculator written in SwiftUI.
+### 简介
+Calculator 是一个使用 SwiftUI 构建的现代、直观且功能丰富的计算器应用。它支持基本的算术运算以及科学计算器功能，允许用户进行更复杂的数学计算。
 
-![Calculator](https://raw.githubusercontent.com/AfrazCodes/SwiftUI-Calculator/master/calculator.png)
+### 功能
+
+- **基础计算器**：执行加、减、乘、除等基本运算。
+- **科学计算器**：提供三角函数、对数、指数等科学计算功能。
+- **历史记录**：查看之前的计算结果。
+- **函数图像**：根据输入的函数表达式绘制图像。
+
+### 技术栈
+- **SwiftUI**：用于构建用户界面。
+- **Swift**：编程语言。
+- **Xcode**：苹果的集成开发环境（IDE）。
+
+### 安装
+要运行 Calculator 应用，您需要在具有 Xcode 安装的 Mac 上进行以下步骤：
+
+1. 克隆或下载这个仓库。
+2. 打开 `Calculator.xcodeproj` 文件。
+3. 选择一个模拟器或连接您的 iOS 设备。
+4. 点击运行按钮开始编译和部署应用。
+
+### 用法
+1. 打开应用，您将看到基础计算器界面。
+2. 点击界面右上角的菜单按钮，选择“科学计算器”以切换到科学计算器模式。
+3. 输入您的数学表达式并点击“=”进行计算。
+4. 使用底部的按钮进行数字和运算符的输入。
+
+### 开发者
+- **Robert** - 初始开发者和维护者。
