@@ -1,0 +1,15 @@
+{
+  "originHash" : "210033b55aa4e8f0381045a0cac3211977b5c4895d826c59f0dfb9275d21f3bb",
+  "pins" : [
+    {
+      "identity" : "expression",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nicklockwood/Expression.git",
+      "state" : {
+        "revision" : "95ffe4c352e456cede933d9910d25b9c84039d1b",
+        "version" : "0.13.9"
+      }
+    }
+  ],
+  "version" : 3
+}
